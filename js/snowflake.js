@@ -3,8 +3,8 @@
     
     jQuery.fn.toptobottom = function () {
         jQuery(this).animate({
-            left: '0',
-            top: '+=' + (jQuery(window).height() - 20)
+            left: '50',
+            top: '+=' + (jQuery(window).height() - 50)
         }, 5000, function () {
             jQuery(this).trigger("hasbottom");
         });
