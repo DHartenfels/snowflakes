@@ -21,7 +21,7 @@ function snowflakes_style()
 {
   echo '<div class="container"><div class="snowfall">';
   for ($i = 1; $i <= 120; $i++) {
-    echo '<div class="snowflake"></div>';
+    echo '<div class="snowflake">🖕</div>';
   }
   echo '</div></div>';
   wp_register_style('snowflake', plugins_url('css\snowflake.css', __FILE__), false, '1.0.0', 'all');

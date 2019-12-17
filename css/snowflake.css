@@ -9,9 +9,9 @@
   position: absolute;
   overflow: hidden !important;
   color: white; }
-  .snowflake:after {
+  /* .snowflake  {
     content: "\2744";
-    overflow: hidden; }
+    overflow: hidden; } */
 
 .snowflake:nth-of-type(1) {
   -webkit-animation-name: snowflake-1;
@@ -24,7 +24,7 @@
           animation-iteration-count: infinite;
   left: 99%;
   top: -58%; }
-  .snowflake:nth-of-type(1):after {
+  .snowflake:nth-of-type(1)  {
     font-size: 6px; }
 @-webkit-keyframes snowflake-1 {
   0% {
@@ -73,7 +73,7 @@
           animation-iteration-count: infinite;
   left: 65%;
   top: -85%; }
-  .snowflake:nth-of-type(2):after {
+  .snowflake:nth-of-type(2)  {
     font-size: 8px; }
 @-webkit-keyframes snowflake-2 {
   0% {
@@ -122,7 +122,7 @@
           animation-iteration-count: infinite;
   left: 51%;
   top: -70%; }
-  .snowflake:nth-of-type(3):after {
+  .snowflake:nth-of-type(3)  {
     font-size: 16px; }
 @-webkit-keyframes snowflake-3 {
   0% {
@@ -171,7 +171,7 @@
           animation-iteration-count: infinite;
   left: 8%;
   top: -77%; }
-  .snowflake:nth-of-type(4):after {
+  .snowflake:nth-of-type(4)  {
     font-size: 9px; }
 @-webkit-keyframes snowflake-4 {
   0% {
@@ -220,7 +220,7 @@
           animation-iteration-count: infinite;
   left: 87%;
   top: -81%; }
-  .snowflake:nth-of-type(5):after {
+  .snowflake:nth-of-type(5)  {
     font-size: 23px; }
 @-webkit-keyframes snowflake-5 {
   0% {
@@ -269,7 +269,7 @@
           animation-iteration-count: infinite;
   left: 60%;
   top: -95%; }
-  .snowflake:nth-of-type(6):after {
+  .snowflake:nth-of-type(6)  {
     font-size: 19px; }
 @-webkit-keyframes snowflake-6 {
   0% {
@@ -318,7 +318,7 @@
           animation-iteration-count: infinite;
   left: 13%;
   top: -72%; }
-  .snowflake:nth-of-type(7):after {
+  .snowflake:nth-of-type(7)  {
     font-size: 14px; }
 @-webkit-keyframes snowflake-7 {
   0% {
@@ -367,7 +367,7 @@
           animation-iteration-count: infinite;
   left: 67%;
   top: -88%; }
-  .snowflake:nth-of-type(8):after {
+  .snowflake:nth-of-type(8)  {
     font-size: 17px; }
 @-webkit-keyframes snowflake-8 {
   0% {
@@ -416,7 +416,7 @@
           animation-iteration-count: infinite;
   left: 42%;
   top: -95%; }
-  .snowflake:nth-of-type(9):after {
+  .snowflake:nth-of-type(9)  {
     font-size: 8px; }
 @-webkit-keyframes snowflake-9 {
   0% {
@@ -465,7 +465,7 @@
           animation-iteration-count: infinite;
   left: 13%;
   top: -53%; }
-  .snowflake:nth-of-type(10):after {
+  .snowflake:nth-of-type(10)  {
     font-size: 17px; }
 @-webkit-keyframes snowflake-10 {
   0% {
@@ -514,7 +514,7 @@
           animation-iteration-count: infinite;
   left: 88%;
   top: -97%; }
-  .snowflake:nth-of-type(11):after {
+  .snowflake:nth-of-type(11)  {
     font-size: 4px; }
 @-webkit-keyframes snowflake-11 {
   0% {
@@ -563,7 +563,7 @@
           animation-iteration-count: infinite;
   left: 51%;
   top: -63%; }
-  .snowflake:nth-of-type(12):after {
+  .snowflake:nth-of-type(12)  {
     font-size: 20px; }
 @-webkit-keyframes snowflake-12 {
   0% {
@@ -612,7 +612,7 @@
           animation-iteration-count: infinite;
   left: 23%;
   top: -57%; }
-  .snowflake:nth-of-type(13):after {
+  .snowflake:nth-of-type(13)  {
     font-size: 5px; }
 @-webkit-keyframes snowflake-13 {
   0% {
@@ -661,7 +661,7 @@
           animation-iteration-count: infinite;
   left: 32%;
   top: -77%; }
-  .snowflake:nth-of-type(14):after {
+  .snowflake:nth-of-type(14)  {
     font-size: 11px; }
 @-webkit-keyframes snowflake-14 {
   0% {
@@ -710,7 +710,7 @@
           animation-iteration-count: infinite;
   left: 20%;
   top: -53%; }
-  .snowflake:nth-of-type(15):after {
+  .snowflake:nth-of-type(15)  {
     font-size: 21px; }
 @-webkit-keyframes snowflake-15 {
   0% {
@@ -759,7 +759,7 @@
           animation-iteration-count: infinite;
   left: 21%;
   top: -66%; }
-  .snowflake:nth-of-type(16):after {
+  .snowflake:nth-of-type(16)  {
     font-size: 15px; }
 @-webkit-keyframes snowflake-16 {
   0% {
@@ -808,7 +808,7 @@
           animation-iteration-count: infinite;
   left: 8%;
   top: -97%; }
-  .snowflake:nth-of-type(17):after {
+  .snowflake:nth-of-type(17)  {
     font-size: 7px; }
 @-webkit-keyframes snowflake-17 {
   0% {
@@ -857,7 +857,7 @@
           animation-iteration-count: infinite;
   left: 54%;
   top: -94%; }
-  .snowflake:nth-of-type(18):after {
+  .snowflake:nth-of-type(18)  {
     font-size: 22px; }
 @-webkit-keyframes snowflake-18 {
   0% {
@@ -906,7 +906,7 @@
           animation-iteration-count: infinite;
   left: 98%;
   top: -55%; }
-  .snowflake:nth-of-type(19):after {
+  .snowflake:nth-of-type(19)  {
     font-size: 10px; }
 @-webkit-keyframes snowflake-19 {
   0% {
@@ -955,7 +955,7 @@
           animation-iteration-count: infinite;
   left: 43%;
   top: -80%; }
-  .snowflake:nth-of-type(20):after {
+  .snowflake:nth-of-type(20)  {
     font-size: 16px; }
 @-webkit-keyframes snowflake-20 {
   0% {
@@ -1004,7 +1004,7 @@
           animation-iteration-count: infinite;
   left: 31%;
   top: -83%; }
-  .snowflake:nth-of-type(21):after {
+  .snowflake:nth-of-type(21)  {
     font-size: 17px; }
 @-webkit-keyframes snowflake-21 {
   0% {
@@ -1053,7 +1053,7 @@
           animation-iteration-count: infinite;
   left: 86%;
   top: -51%; }
-  .snowflake:nth-of-type(22):after {
+  .snowflake:nth-of-type(22)  {
     font-size: 11px; }
 @-webkit-keyframes snowflake-22 {
   0% {
@@ -1102,7 +1102,7 @@
           animation-iteration-count: infinite;
   left: 81%;
   top: -68%; }
-  .snowflake:nth-of-type(23):after {
+  .snowflake:nth-of-type(23)  {
     font-size: 17px; }
 @-webkit-keyframes snowflake-23 {
   0% {
@@ -1151,7 +1151,7 @@
           animation-iteration-count: infinite;
   left: 57%;
   top: -56%; }
-  .snowflake:nth-of-type(24):after {
+  .snowflake:nth-of-type(24)  {
     font-size: 3px; }
 @-webkit-keyframes snowflake-24 {
   0% {
@@ -1200,7 +1200,7 @@
           animation-iteration-count: infinite;
   left: 68%;
   top: -92%; }
-  .snowflake:nth-of-type(25):after {
+  .snowflake:nth-of-type(25)  {
     font-size: 14px; }
 @-webkit-keyframes snowflake-25 {
   0% {
@@ -1249,7 +1249,7 @@
           animation-iteration-count: infinite;
   left: 68%;
   top: -62%; }
-  .snowflake:nth-of-type(26):after {
+  .snowflake:nth-of-type(26)  {
     font-size: 21px; }
 @-webkit-keyframes snowflake-26 {
   0% {
@@ -1298,7 +1298,7 @@
           animation-iteration-count: infinite;
   left: 53%;
   top: -91%; }
-  .snowflake:nth-of-type(27):after {
+  .snowflake:nth-of-type(27)  {
     font-size: 18px; }
 @-webkit-keyframes snowflake-27 {
   0% {
@@ -1347,7 +1347,7 @@
           animation-iteration-count: infinite;
   left: 55%;
   top: -69%; }
-  .snowflake:nth-of-type(28):after {
+  .snowflake:nth-of-type(28)  {
     font-size: 12px; }
 @-webkit-keyframes snowflake-28 {
   0% {
@@ -1396,7 +1396,7 @@
           animation-iteration-count: infinite;
   left: 67%;
   top: -66%; }
-  .snowflake:nth-of-type(29):after {
+  .snowflake:nth-of-type(29)  {
     font-size: 10px; }
 @-webkit-keyframes snowflake-29 {
   0% {
@@ -1445,7 +1445,7 @@
           animation-iteration-count: infinite;
   left: 59%;
   top: -73%; }
-  .snowflake:nth-of-type(30):after {
+  .snowflake:nth-of-type(30)  {
     font-size: 4px; }
 @-webkit-keyframes snowflake-30 {
   0% {
@@ -1494,7 +1494,7 @@
           animation-iteration-count: infinite;
   left: 78%;
   top: -55%; }
-  .snowflake:nth-of-type(31):after {
+  .snowflake:nth-of-type(31)  {
     font-size: 12px; }
 @-webkit-keyframes snowflake-31 {
   0% {
@@ -1543,7 +1543,7 @@
           animation-iteration-count: infinite;
   left: 27%;
   top: -55%; }
-  .snowflake:nth-of-type(32):after {
+  .snowflake:nth-of-type(32)  {
     font-size: 24px; }
 @-webkit-keyframes snowflake-32 {
   0% {
@@ -1592,7 +1592,7 @@
           animation-iteration-count: infinite;
   left: 92%;
   top: -100%; }
-  .snowflake:nth-of-type(33):after {
+  .snowflake:nth-of-type(33)  {
     font-size: 18px; }
 @-webkit-keyframes snowflake-33 {
   0% {
@@ -1641,7 +1641,7 @@
           animation-iteration-count: infinite;
   left: 2%;
   top: -71%; }
-  .snowflake:nth-of-type(34):after {
+  .snowflake:nth-of-type(34)  {
     font-size: 11px; }
 @-webkit-keyframes snowflake-34 {
   0% {
@@ -1690,7 +1690,7 @@
           animation-iteration-count: infinite;
   left: 31%;
   top: -57%; }
-  .snowflake:nth-of-type(35):after {
+  .snowflake:nth-of-type(35)  {
     font-size: 3px; }
 @-webkit-keyframes snowflake-35 {
   0% {
@@ -1739,7 +1739,7 @@
           animation-iteration-count: infinite;
   left: 93%;
   top: -90%; }
-  .snowflake:nth-of-type(36):after {
+  .snowflake:nth-of-type(36)  {
     font-size: 18px; }
 @-webkit-keyframes snowflake-36 {
   0% {
@@ -1788,7 +1788,7 @@
           animation-iteration-count: infinite;
   left: 94%;
   top: -81%; }
-  .snowflake:nth-of-type(37):after {
+  .snowflake:nth-of-type(37)  {
     font-size: 2px; }
 @-webkit-keyframes snowflake-37 {
   0% {
@@ -1837,7 +1837,7 @@
           animation-iteration-count: infinite;
   left: 10%;
   top: -64%; }
-  .snowflake:nth-of-type(38):after {
+  .snowflake:nth-of-type(38)  {
     font-size: 12px; }
 @-webkit-keyframes snowflake-38 {
   0% {
@@ -1886,7 +1886,7 @@
           animation-iteration-count: infinite;
   left: 55%;
   top: -87%; }
-  .snowflake:nth-of-type(39):after {
+  .snowflake:nth-of-type(39)  {
     font-size: 20px; }
 @-webkit-keyframes snowflake-39 {
   0% {
@@ -1935,7 +1935,7 @@
           animation-iteration-count: infinite;
   left: 26%;
   top: -77%; }
-  .snowflake:nth-of-type(40):after {
+  .snowflake:nth-of-type(40)  {
     font-size: 22px; }
 @-webkit-keyframes snowflake-40 {
   0% {
@@ -1984,7 +1984,7 @@
           animation-iteration-count: infinite;
   left: 18%;
   top: -79%; }
-  .snowflake:nth-of-type(41):after {
+  .snowflake:nth-of-type(41)  {
     font-size: 1px; }
 @-webkit-keyframes snowflake-41 {
   0% {
@@ -2033,7 +2033,7 @@
           animation-iteration-count: infinite;
   left: 48%;
   top: -63%; }
-  .snowflake:nth-of-type(42):after {
+  .snowflake:nth-of-type(42)  {
     font-size: 18px; }
 @-webkit-keyframes snowflake-42 {
   0% {
@@ -2082,7 +2082,7 @@
           animation-iteration-count: infinite;
   left: 29%;
   top: -54%; }
-  .snowflake:nth-of-type(43):after {
+  .snowflake:nth-of-type(43)  {
     font-size: 7px; }
 @-webkit-keyframes snowflake-43 {
   0% {
@@ -2131,7 +2131,7 @@
           animation-iteration-count: infinite;
   left: 88%;
   top: -70%; }
-  .snowflake:nth-of-type(44):after {
+  .snowflake:nth-of-type(44)  {
     font-size: 24px; }
 @-webkit-keyframes snowflake-44 {
   0% {
@@ -2180,7 +2180,7 @@
           animation-iteration-count: infinite;
   left: 55%;
   top: -76%; }
-  .snowflake:nth-of-type(45):after {
+  .snowflake:nth-of-type(45)  {
     font-size: 14px; }
 @-webkit-keyframes snowflake-45 {
   0% {
@@ -2229,7 +2229,7 @@
           animation-iteration-count: infinite;
   left: 47%;
   top: -63%; }
-  .snowflake:nth-of-type(46):after {
+  .snowflake:nth-of-type(46)  {
     font-size: 4px; }
 @-webkit-keyframes snowflake-46 {
   0% {
@@ -2278,7 +2278,7 @@
           animation-iteration-count: infinite;
   left: 99%;
   top: -61%; }
-  .snowflake:nth-of-type(47):after {
+  .snowflake:nth-of-type(47)  {
     font-size: 3px; }
 @-webkit-keyframes snowflake-47 {
   0% {
@@ -2327,7 +2327,7 @@
           animation-iteration-count: infinite;
   left: 47%;
   top: -73%; }
-  .snowflake:nth-of-type(48):after {
+  .snowflake:nth-of-type(48)  {
     font-size: 21px; }
 @-webkit-keyframes snowflake-48 {
   0% {
@@ -2376,7 +2376,7 @@
           animation-iteration-count: infinite;
   left: 21%;
   top: -65%; }
-  .snowflake:nth-of-type(49):after {
+  .snowflake:nth-of-type(49)  {
     font-size: 11px; }
 @-webkit-keyframes snowflake-49 {
   0% {
@@ -2425,7 +2425,7 @@
           animation-iteration-count: infinite;
   left: 81%;
   top: -53%; }
-  .snowflake:nth-of-type(50):after {
+  .snowflake:nth-of-type(50)  {
     font-size: 1px; }
 @-webkit-keyframes snowflake-50 {
   0% {
@@ -2474,7 +2474,7 @@
           animation-iteration-count: infinite;
   left: 25%;
   top: -97%; }
-  .snowflake:nth-of-type(51):after {
+  .snowflake:nth-of-type(51)  {
     font-size: 13px; }
 @-webkit-keyframes snowflake-51 {
   0% {
@@ -2523,7 +2523,7 @@
           animation-iteration-count: infinite;
   left: 9%;
   top: -63%; }
-  .snowflake:nth-of-type(52):after {
+  .snowflake:nth-of-type(52)  {
     font-size: 14px; }
 @-webkit-keyframes snowflake-52 {
   0% {
@@ -2572,7 +2572,7 @@
           animation-iteration-count: infinite;
   left: 15%;
   top: -57%; }
-  .snowflake:nth-of-type(53):after {
+  .snowflake:nth-of-type(53)  {
     font-size: 24px; }
 @-webkit-keyframes snowflake-53 {
   0% {
@@ -2621,7 +2621,7 @@
           animation-iteration-count: infinite;
   left: 65%;
   top: -74%; }
-  .snowflake:nth-of-type(54):after {
+  .snowflake:nth-of-type(54)  {
     font-size: 9px; }
 @-webkit-keyframes snowflake-54 {
   0% {
@@ -2670,7 +2670,7 @@
           animation-iteration-count: infinite;
   left: 29%;
   top: -63%; }
-  .snowflake:nth-of-type(55):after {
+  .snowflake:nth-of-type(55)  {
     font-size: 17px; }
 @-webkit-keyframes snowflake-55 {
   0% {
@@ -2719,7 +2719,7 @@
           animation-iteration-count: infinite;
   left: 61%;
   top: -57%; }
-  .snowflake:nth-of-type(56):after {
+  .snowflake:nth-of-type(56)  {
     font-size: 11px; }
 @-webkit-keyframes snowflake-56 {
   0% {
@@ -2768,7 +2768,7 @@
           animation-iteration-count: infinite;
   left: 74%;
   top: -97%; }
-  .snowflake:nth-of-type(57):after {
+  .snowflake:nth-of-type(57)  {
     font-size: 6px; }
 @-webkit-keyframes snowflake-57 {
   0% {
@@ -2817,7 +2817,7 @@
           animation-iteration-count: infinite;
   left: 46%;
   top: -57%; }
-  .snowflake:nth-of-type(58):after {
+  .snowflake:nth-of-type(58)  {
     font-size: 12px; }
 @-webkit-keyframes snowflake-58 {
   0% {
@@ -2866,7 +2866,7 @@
           animation-iteration-count: infinite;
   left: 93%;
   top: -88%; }
-  .snowflake:nth-of-type(59):after {
+  .snowflake:nth-of-type(59)  {
     font-size: 1px; }
 @-webkit-keyframes snowflake-59 {
   0% {
@@ -2915,7 +2915,7 @@
           animation-iteration-count: infinite;
   left: 8%;
   top: -68%; }
-  .snowflake:nth-of-type(60):after {
+  .snowflake:nth-of-type(60)  {
     font-size: 4px; }
 @-webkit-keyframes snowflake-60 {
   0% {
@@ -2964,7 +2964,7 @@
           animation-iteration-count: infinite;
   left: 44%;
   top: -97%; }
-  .snowflake:nth-of-type(61):after {
+  .snowflake:nth-of-type(61)  {
     font-size: 14px; }
 @-webkit-keyframes snowflake-61 {
   0% {
@@ -3013,7 +3013,7 @@
           animation-iteration-count: infinite;
   left: 53%;
   top: -74%; }
-  .snowflake:nth-of-type(62):after {
+  .snowflake:nth-of-type(62)  {
     font-size: 22px; }
 @-webkit-keyframes snowflake-62 {
   0% {
@@ -3062,7 +3062,7 @@
           animation-iteration-count: infinite;
   left: 43%;
   top: -52%; }
-  .snowflake:nth-of-type(63):after {
+  .snowflake:nth-of-type(63)  {
     font-size: 21px; }
 @-webkit-keyframes snowflake-63 {
   0% {
@@ -3111,7 +3111,7 @@
           animation-iteration-count: infinite;
   left: 66%;
   top: -90%; }
-  .snowflake:nth-of-type(64):after {
+  .snowflake:nth-of-type(64)  {
     font-size: 19px; }
 @-webkit-keyframes snowflake-64 {
   0% {
@@ -3160,7 +3160,7 @@
           animation-iteration-count: infinite;
   left: 43%;
   top: -52%; }
-  .snowflake:nth-of-type(65):after {
+  .snowflake:nth-of-type(65)  {
     font-size: 14px; }
 @-webkit-keyframes snowflake-65 {
   0% {
@@ -3209,7 +3209,7 @@
           animation-iteration-count: infinite;
   left: 35%;
   top: -93%; }
-  .snowflake:nth-of-type(66):after {
+  .snowflake:nth-of-type(66)  {
     font-size: 2px; }
 @-webkit-keyframes snowflake-66 {
   0% {
@@ -3258,7 +3258,7 @@
           animation-iteration-count: infinite;
   left: 21%;
   top: -54%; }
-  .snowflake:nth-of-type(67):after {
+  .snowflake:nth-of-type(67)  {
     font-size: 20px; }
 @-webkit-keyframes snowflake-67 {
   0% {
@@ -3307,7 +3307,7 @@
           animation-iteration-count: infinite;
   left: 31%;
   top: -56%; }
-  .snowflake:nth-of-type(68):after {
+  .snowflake:nth-of-type(68)  {
     font-size: 9px; }
 @-webkit-keyframes snowflake-68 {
   0% {
@@ -3356,7 +3356,7 @@
           animation-iteration-count: infinite;
   left: 37%;
   top: -68%; }
-  .snowflake:nth-of-type(69):after {
+  .snowflake:nth-of-type(69)  {
     font-size: 24px; }
 @-webkit-keyframes snowflake-69 {
   0% {
@@ -3405,7 +3405,7 @@
           animation-iteration-count: infinite;
   left: 52%;
   top: -66%; }
-  .snowflake:nth-of-type(70):after {
+  .snowflake:nth-of-type(70)  {
     font-size: 12px; }
 @-webkit-keyframes snowflake-70 {
   0% {
@@ -3454,7 +3454,7 @@
           animation-iteration-count: infinite;
   left: 82%;
   top: -98%; }
-  .snowflake:nth-of-type(71):after {
+  .snowflake:nth-of-type(71)  {
     font-size: 1px; }
 @-webkit-keyframes snowflake-71 {
   0% {
@@ -3503,7 +3503,7 @@
           animation-iteration-count: infinite;
   left: 87%;
   top: -69%; }
-  .snowflake:nth-of-type(72):after {
+  .snowflake:nth-of-type(72)  {
     font-size: 3px; }
 @-webkit-keyframes snowflake-72 {
   0% {
@@ -3552,7 +3552,7 @@
           animation-iteration-count: infinite;
   left: 43%;
   top: -92%; }
-  .snowflake:nth-of-type(73):after {
+  .snowflake:nth-of-type(73)  {
     font-size: 14px; }
 @-webkit-keyframes snowflake-73 {
   0% {
@@ -3601,7 +3601,7 @@
           animation-iteration-count: infinite;
   left: 20%;
   top: -84%; }
-  .snowflake:nth-of-type(74):after {
+  .snowflake:nth-of-type(74)  {
     font-size: 10px; }
 @-webkit-keyframes snowflake-74 {
   0% {
@@ -3650,7 +3650,7 @@
           animation-iteration-count: infinite;
   left: 1%;
   top: -82%; }
-  .snowflake:nth-of-type(75):after {
+  .snowflake:nth-of-type(75)  {
     font-size: 9px; }
 @-webkit-keyframes snowflake-75 {
   0% {
@@ -3699,7 +3699,7 @@
           animation-iteration-count: infinite;
   left: 43%;
   top: -99%; }
-  .snowflake:nth-of-type(76):after {
+  .snowflake:nth-of-type(76)  {
     font-size: 24px; }
 @-webkit-keyframes snowflake-76 {
   0% {
@@ -3748,7 +3748,7 @@
           animation-iteration-count: infinite;
   left: 9%;
   top: -91%; }
-  .snowflake:nth-of-type(77):after {
+  .snowflake:nth-of-type(77)  {
     font-size: 23px; }
 @-webkit-keyframes snowflake-77 {
   0% {
@@ -3797,7 +3797,7 @@
           animation-iteration-count: infinite;
   left: 78%;
   top: -72%; }
-  .snowflake:nth-of-type(78):after {
+  .snowflake:nth-of-type(78)  {
     font-size: 4px; }
 @-webkit-keyframes snowflake-78 {
   0% {
@@ -3846,7 +3846,7 @@
           animation-iteration-count: infinite;
   left: 54%;
   top: -79%; }
-  .snowflake:nth-of-type(79):after {
+  .snowflake:nth-of-type(79)  {
     font-size: 9px; }
 @-webkit-keyframes snowflake-79 {
   0% {
@@ -3895,7 +3895,7 @@
           animation-iteration-count: infinite;
   left: 51%;
   top: -84%; }
-  .snowflake:nth-of-type(80):after {
+  .snowflake:nth-of-type(80)  {
     font-size: 1px; }
 @-webkit-keyframes snowflake-80 {
   0% {
@@ -3944,7 +3944,7 @@
           animation-iteration-count: infinite;
   left: 78%;
   top: -63%; }
-  .snowflake:nth-of-type(81):after {
+  .snowflake:nth-of-type(81)  {
     font-size: 5px; }
 @-webkit-keyframes snowflake-81 {
   0% {
@@ -3993,7 +3993,7 @@
           animation-iteration-count: infinite;
   left: 79%;
   top: -94%; }
-  .snowflake:nth-of-type(82):after {
+  .snowflake:nth-of-type(82)  {
     font-size: 19px; }
 @-webkit-keyframes snowflake-82 {
   0% {
@@ -4042,7 +4042,7 @@
           animation-iteration-count: infinite;
   left: 17%;
   top: -83%; }
-  .snowflake:nth-of-type(83):after {
+  .snowflake:nth-of-type(83)  {
     font-size: 11px; }
 @-webkit-keyframes snowflake-83 {
   0% {
@@ -4091,7 +4091,7 @@
           animation-iteration-count: infinite;
   left: 47%;
   top: -66%; }
-  .snowflake:nth-of-type(84):after {
+  .snowflake:nth-of-type(84)  {
     font-size: 14px; }
 @-webkit-keyframes snowflake-84 {
   0% {
@@ -4140,7 +4140,7 @@
           animation-iteration-count: infinite;
   left: 90%;
   top: -74%; }
-  .snowflake:nth-of-type(85):after {
+  .snowflake:nth-of-type(85)  {
     font-size: 15px; }
 @-webkit-keyframes snowflake-85 {
   0% {
@@ -4189,7 +4189,7 @@
           animation-iteration-count: infinite;
   left: 66%;
   top: -65%; }
-  .snowflake:nth-of-type(86):after {
+  .snowflake:nth-of-type(86)  {
     font-size: 3px; }
 @-webkit-keyframes snowflake-86 {
   0% {
@@ -4238,7 +4238,7 @@
           animation-iteration-count: infinite;
   left: 69%;
   top: -58%; }
-  .snowflake:nth-of-type(87):after {
+  .snowflake:nth-of-type(87)  {
     font-size: 12px; }
 @-webkit-keyframes snowflake-87 {
   0% {
@@ -4287,7 +4287,7 @@
           animation-iteration-count: infinite;
   left: 53%;
   top: -97%; }
-  .snowflake:nth-of-type(88):after {
+  .snowflake:nth-of-type(88)  {
     font-size: 5px; }
 @-webkit-keyframes snowflake-88 {
   0% {
@@ -4336,7 +4336,7 @@
           animation-iteration-count: infinite;
   left: 10%;
   top: -59%; }
-  .snowflake:nth-of-type(89):after {
+  .snowflake:nth-of-type(89)  {
     font-size: 22px; }
 @-webkit-keyframes snowflake-89 {
   0% {
@@ -4385,7 +4385,7 @@
           animation-iteration-count: infinite;
   left: 96%;
   top: -91%; }
-  .snowflake:nth-of-type(90):after {
+  .snowflake:nth-of-type(90)  {
     font-size: 13px; }
 @-webkit-keyframes snowflake-90 {
   0% {
@@ -4434,7 +4434,7 @@
           animation-iteration-count: infinite;
   left: 97%;
   top: -99%; }
-  .snowflake:nth-of-type(91):after {
+  .snowflake:nth-of-type(91)  {
     font-size: 18px; }
 @-webkit-keyframes snowflake-91 {
   0% {
@@ -4483,7 +4483,7 @@
           animation-iteration-count: infinite;
   left: 52%;
   top: -99%; }
-  .snowflake:nth-of-type(92):after {
+  .snowflake:nth-of-type(92)  {
     font-size: 14px; }
 @-webkit-keyframes snowflake-92 {
   0% {
@@ -4532,7 +4532,7 @@
           animation-iteration-count: infinite;
   left: 40%;
   top: -56%; }
-  .snowflake:nth-of-type(93):after {
+  .snowflake:nth-of-type(93)  {
     font-size: 20px; }
 @-webkit-keyframes snowflake-93 {
   0% {
@@ -4581,7 +4581,7 @@
           animation-iteration-count: infinite;
   left: 5%;
   top: -75%; }
-  .snowflake:nth-of-type(94):after {
+  .snowflake:nth-of-type(94)  {
     font-size: 17px; }
 @-webkit-keyframes snowflake-94 {
   0% {
@@ -4630,7 +4630,7 @@
           animation-iteration-count: infinite;
   left: 80%;
   top: -56%; }
-  .snowflake:nth-of-type(95):after {
+  .snowflake:nth-of-type(95)  {
     font-size: 22px; }
 @-webkit-keyframes snowflake-95 {
   0% {
@@ -4679,7 +4679,7 @@
           animation-iteration-count: infinite;
   left: 51%;
   top: -66%; }
-  .snowflake:nth-of-type(96):after {
+  .snowflake:nth-of-type(96)  {
     font-size: 7px; }
 @-webkit-keyframes snowflake-96 {
   0% {
@@ -4728,7 +4728,7 @@
           animation-iteration-count: infinite;
   left: 13%;
   top: -58%; }
-  .snowflake:nth-of-type(97):after {
+  .snowflake:nth-of-type(97)  {
     font-size: 11px; }
 @-webkit-keyframes snowflake-97 {
   0% {
@@ -4777,7 +4777,7 @@
           animation-iteration-count: infinite;
   left: 54%;
   top: -87%; }
-  .snowflake:nth-of-type(98):after {
+  .snowflake:nth-of-type(98)  {
     font-size: 14px; }
 @-webkit-keyframes snowflake-98 {
   0% {
@@ -4826,7 +4826,7 @@
           animation-iteration-count: infinite;
   left: 5%;
   top: -61%; }
-  .snowflake:nth-of-type(99):after {
+  .snowflake:nth-of-type(99)  {
     font-size: 3px; }
 @-webkit-keyframes snowflake-99 {
   0% {
@@ -4875,7 +4875,7 @@
           animation-iteration-count: infinite;
   left: 93%;
   top: -87%; }
-  .snowflake:nth-of-type(100):after {
+  .snowflake:nth-of-type(100)  {
     font-size: 3px; }
 @-webkit-keyframes snowflake-100 {
   0% {
@@ -4924,7 +4924,7 @@
           animation-iteration-count: infinite;
   left: 95%;
   top: -82%; }
-  .snowflake:nth-of-type(101):after {
+  .snowflake:nth-of-type(101)  {
     font-size: 3px; }
 @-webkit-keyframes snowflake-101 {
   0% {
@@ -4973,7 +4973,7 @@
           animation-iteration-count: infinite;
   left: 91%;
   top: -86%; }
-  .snowflake:nth-of-type(102):after {
+  .snowflake:nth-of-type(102)  {
     font-size: 11px; }
 @-webkit-keyframes snowflake-102 {
   0% {
@@ -5022,7 +5022,7 @@
           animation-iteration-count: infinite;
   left: 86%;
   top: -80%; }
-  .snowflake:nth-of-type(103):after {
+  .snowflake:nth-of-type(103)  {
     font-size: 23px; }
 @-webkit-keyframes snowflake-103 {
   0% {
@@ -5071,7 +5071,7 @@
           animation-iteration-count: infinite;
   left: 7%;
   top: -53%; }
-  .snowflake:nth-of-type(104):after {
+  .snowflake:nth-of-type(104)  {
     font-size: 24px; }
 @-webkit-keyframes snowflake-104 {
   0% {
@@ -5120,7 +5120,7 @@
           animation-iteration-count: infinite;
   left: 78%;
   top: -76%; }
-  .snowflake:nth-of-type(105):after {
+  .snowflake:nth-of-type(105)  {
     font-size: 10px; }
 @-webkit-keyframes snowflake-105 {
   0% {
@@ -5169,7 +5169,7 @@
           animation-iteration-count: infinite;
   left: 94%;
   top: -69%; }
-  .snowflake:nth-of-type(106):after {
+  .snowflake:nth-of-type(106)  {
     font-size: 12px; }
 @-webkit-keyframes snowflake-106 {
   0% {
@@ -5218,7 +5218,7 @@
           animation-iteration-count: infinite;
   left: 13%;
   top: -58%; }
-  .snowflake:nth-of-type(107):after {
+  .snowflake:nth-of-type(107)  {
     font-size: 20px; }
 @-webkit-keyframes snowflake-107 {
   0% {
@@ -5267,7 +5267,7 @@
           animation-iteration-count: infinite;
   left: 52%;
   top: -52%; }
-  .snowflake:nth-of-type(108):after {
+  .snowflake:nth-of-type(108)  {
     font-size: 21px; }
 @-webkit-keyframes snowflake-108 {
   0% {
@@ -5316,7 +5316,7 @@
           animation-iteration-count: infinite;
   left: 39%;
   top: -70%; }
-  .snowflake:nth-of-type(109):after {
+  .snowflake:nth-of-type(109)  {
     font-size: 5px; }
 @-webkit-keyframes snowflake-109 {
   0% {
@@ -5365,7 +5365,7 @@
           animation-iteration-count: infinite;
   left: 3%;
   top: -99%; }
-  .snowflake:nth-of-type(110):after {
+  .snowflake:nth-of-type(110)  {
     font-size: 16px; }
 @-webkit-keyframes snowflake-110 {
   0% {
@@ -5414,7 +5414,7 @@
           animation-iteration-count: infinite;
   left: 39%;
   top: -62%; }
-  .snowflake:nth-of-type(111):after {
+  .snowflake:nth-of-type(111)  {
     font-size: 3px; }
 @-webkit-keyframes snowflake-111 {
   0% {
@@ -5463,7 +5463,7 @@
           animation-iteration-count: infinite;
   left: 48%;
   top: -75%; }
-  .snowflake:nth-of-type(112):after {
+  .snowflake:nth-of-type(112)  {
     font-size: 6px; }
 @-webkit-keyframes snowflake-112 {
   0% {
@@ -5512,7 +5512,7 @@
           animation-iteration-count: infinite;
   left: 8%;
   top: -98%; }
-  .snowflake:nth-of-type(113):after {
+  .snowflake:nth-of-type(113)  {
     font-size: 19px; }
 @-webkit-keyframes snowflake-113 {
   0% {
@@ -5561,7 +5561,7 @@
           animation-iteration-count: infinite;
   left: 50%;
   top: -78%; }
-  .snowflake:nth-of-type(114):after {
+  .snowflake:nth-of-type(114)  {
     font-size: 1px; }
 @-webkit-keyframes snowflake-114 {
   0% {
@@ -5610,7 +5610,7 @@
           animation-iteration-count: infinite;
   left: 94%;
   top: -97%; }
-  .snowflake:nth-of-type(115):after {
+  .snowflake:nth-of-type(115)  {
     font-size: 2px; }
 @-webkit-keyframes snowflake-115 {
   0% {
@@ -5659,7 +5659,7 @@
           animation-iteration-count: infinite;
   left: 84%;
   top: -52%; }
-  .snowflake:nth-of-type(116):after {
+  .snowflake:nth-of-type(116)  {
     font-size: 5px; }
 @-webkit-keyframes snowflake-116 {
   0% {
@@ -5708,7 +5708,7 @@
           animation-iteration-count: infinite;
   left: 33%;
   top: -73%; }
-  .snowflake:nth-of-type(117):after {
+  .snowflake:nth-of-type(117)  {
     font-size: 11px; }
 @-webkit-keyframes snowflake-117 {
   0% {
@@ -5757,7 +5757,7 @@
           animation-iteration-count: infinite;
   left: 63%;
   top: -71%; }
-  .snowflake:nth-of-type(118):after {
+  .snowflake:nth-of-type(118)  {
     font-size: 11px; }
 @-webkit-keyframes snowflake-118 {
   0% {
@@ -5806,7 +5806,7 @@
           animation-iteration-count: infinite;
   left: 6%;
   top: -83%; }
-  .snowflake:nth-of-type(119):after {
+  .snowflake:nth-of-type(119)  {
     font-size: 23px; }
 @-webkit-keyframes snowflake-119 {
   0% {
@@ -5855,7 +5855,7 @@
           animation-iteration-count: infinite;
   left: 5%;
   top: -59%; }
-  .snowflake:nth-of-type(120):after {
+  .snowflake:nth-of-type(120)  {
     font-size: 13px; }
 @-webkit-keyframes snowflake-120 {
   0% {
